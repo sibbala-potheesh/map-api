@@ -1,4 +1,4 @@
-# Map View React App
+# Map View Node API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -39,7 +39,7 @@ This app fetches data from a Node.js backend running at [http://localhost:5000](
    - **Request Body:**
      ```json
      {
-       "email": "user@example.com",
+       "username": "user@example.com",
        "password": "password123"
      }
      ```
@@ -106,9 +106,3 @@ This app fetches data from a Node.js backend running at [http://localhost:5000](
        ]
      }
      ```
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
